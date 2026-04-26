@@ -1,0 +1,7 @@
+## Interface: 120005
+## Title: OnlyNameFriendlyNameplates
+## Notes: Sets nameplateShowOnlyNameForFriendlyPlayerUnits to 1 on login
+## Version: 1.0.0
+## Author: Rakhnar
+
+Core.lua
