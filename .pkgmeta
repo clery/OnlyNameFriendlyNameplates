@@ -1,0 +1,6 @@
+package-as: OnlyNameFriendlyNameplates
+
+ignore:
+    - .github
+    - .gitignore
+    - README.md
